@@ -28,3 +28,31 @@ Transaction ID: A unique identifier for each transaction.
 - src/: Source code for data processing and analysis.
 - README.md: Project description and instructions.
 - requirements.txt: List of required libraries.
+
+
+ # How to Use This Repository:
+ 1-Clone the repository:
+
+ ```
+ git clone https://github.com/fatmasalah123/sales-insights-analysis.git
+
+ ```
+2-Install the required libraries:
+
+```
+pip install -r requirements.txt
+
+```
+3-Run the Jupyter Notebook:
+```
+jupyter notebook
+```
+# Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+# License
+This project is licensed under the MIT License.
+
+
+ 
+
